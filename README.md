@@ -23,9 +23,9 @@ git clone https://github.com/Shabana1413/COMPLETE-PYTHON
 Contact
 For any questions or suggestions, please feel free to reach.
 
-Gmail: shabanaalina1413@gmail.com
+Gmail: shabanaalina14@gmail.com
 
-GitHub Profile: shabana1413
+GitHub Profile: shabanaalina14
 
 Happy Coding!
 
