@@ -18,7 +18,7 @@ Welcome to the Complete Python Documentation project! This repository aims to pr
 - Best practices and coding standards in Python.
 
   
-git clone https://github.com/shabana1413/complete-python-docs.git
+git clone https://github.com/Shabana1413/COMPLETE-PYTHON
 
 Contact
 For any questions or suggestions, please feel free to reach us.
