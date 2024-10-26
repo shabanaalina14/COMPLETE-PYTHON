@@ -21,9 +21,11 @@ Welcome to the Complete Python Documentation project! This repository aims to pr
 git clone https://github.com/Shabana1413/COMPLETE-PYTHON
 
 Contact
-For any questions or suggestions, please feel free to reach us.
+For any questions or suggestions, please feel free to reach.
 
 Gmail: shabanaalina1413@gmail.com
+
 GitHub Profile: shabana1413
+
 Happy Coding!
 
