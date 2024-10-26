@@ -14,7 +14,7 @@ Welcome to the Complete Python Documentation project! This repository aims to pr
   - Functions and modules
   - Object-oriented programming
   - File handling
-  - Libraries and frameworks (e.g., NumPy, pandas, Flask, Django)
+  - Libraries and frameworks (e.g., NumPy, pandas)
 - Best practices and coding standards in Python.
 
   
